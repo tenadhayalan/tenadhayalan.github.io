@@ -3,7 +3,7 @@ title: "Mussel up for climate change! Effects of acidification and warming on th
 collection: talks
 type: "Talk"
 permalink: /talks/2025-csunposium
-venue: "CSUNposium
+venue: "CSUNposium""
 date: 2025-04-04
 location: "Northridge, CA, USA"
 ---
